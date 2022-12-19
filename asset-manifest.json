@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.bdedb95c.css",
-    "main.js": "/my-app/static/js/main.881f5ca4.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/image.png": "/my-app/static/media/image.3b11d84117be1b5651f3.png",
-    "static/media/img44.png": "/my-app/static/media/img44.c640cea62ace1bb8cb66.png",
-    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/my-app/index.html",
-    "main.bdedb95c.css.map": "/my-app/static/css/main.bdedb95c.css.map",
-    "main.881f5ca4.js.map": "/my-app/static/js/main.881f5ca4.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/wtf-site/static/css/main.10c6e2fa.css",
+    "main.js": "/wtf-site/static/js/main.f0cda80e.js",
+    "static/js/787.43a7b2e0.chunk.js": "/wtf-site/static/js/787.43a7b2e0.chunk.js",
+    "static/media/image.png": "/wtf-site/static/media/image.3b11d84117be1b5651f3.png",
+    "static/media/img44.png": "/wtf-site/static/media/img44.c640cea62ace1bb8cb66.png",
+    "static/media/logo.svg": "/wtf-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wtf-site/index.html",
+    "main.10c6e2fa.css.map": "/wtf-site/static/css/main.10c6e2fa.css.map",
+    "main.f0cda80e.js.map": "/wtf-site/static/js/main.f0cda80e.js.map",
+    "787.43a7b2e0.chunk.js.map": "/wtf-site/static/js/787.43a7b2e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdedb95c.css",
-    "static/js/main.881f5ca4.js"
+    "static/css/main.10c6e2fa.css",
+    "static/js/main.f0cda80e.js"
   ]
 }
